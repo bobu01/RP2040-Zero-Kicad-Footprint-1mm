@@ -18,6 +18,8 @@ MCU module is mounted by header pins or small wires. Solder by hand or by wave.
 - Courtyard from unit dimensions
 - Solder mask expansion for PCB fab
 
+## ****************************
+
 ## Install
 - Download the footprint and symbol files.
 - Put the files somewhere they can live long-term.
