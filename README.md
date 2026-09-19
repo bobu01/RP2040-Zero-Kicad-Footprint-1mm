@@ -1,4 +1,4 @@
-# RP2040-Zero-Kicad-Footprint
+# Waveshare RP2040-Zero-Kicad-Footprint
 Footprint for the [RP2040 Zero dev board](https://www.waveshare.com/wiki/RP2040-Zero).
 ![RP2040-Zero Pinout](images/RP2040-Zero-details.jpg)
 
