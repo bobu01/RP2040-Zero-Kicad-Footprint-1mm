@@ -2,6 +2,11 @@
 Footprint for the [RP2040 Zero dev board](https://www.waveshare.com/wiki/RP2040-Zero).
 ![RP2040-Zero Pinout](images/RP2040-Zero-details.jpg)
 
+## Alternate footprint RP2040-Zero_1mm.kicad_mod
+- 1.0mm holes for square pins
+- Larger pads for hand soldering
+- Solder mask expansion for PCB fab
+
 ## Install
 - Download the footprint and symbol files.
 - Put the files somewhere they can live long-term.
