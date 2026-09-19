@@ -1,10 +1,16 @@
-# Waveshare RP2040-Zero-Kicad-Footprint
-Footprint for the [RP2040 Zero dev board](https://www.waveshare.com/wiki/RP2040-Zero).
+# RP2040-Zero-Kicad Thru-Hole Footprint
+Thru-hole Footprints for the Waveshare [RP2040 Zero dev board](https://www.waveshare.com/wiki/RP2040-Zero).
 ![RP2040-Zero Pinout](images/RP2040-Zero-details.jpg)
 
-## Alternate footprint RP2040-Zero_1mm.kicad_mod
+## Original footprint: RP2040-Zero.kicad_mod
+- 0.8mm holes
+- compact pads
+- Tight courtyard (perimeter)
+
+## Alternate footprint: RP2040-Zero_1mm.kicad_mod
 - 1.0mm holes for square pins
 - Larger pads for hand soldering
+- Courtyard from unit dimensions
 - Solder mask expansion for PCB fab
 
 ## Install
