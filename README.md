@@ -15,7 +15,7 @@ MCU module is mounted by header pins or small wires. Solder by hand or by wave.
 ## Alternate footprint: RP2040-Zero_1mm.kicad_mod
 - 1.0mm holes for square pins
 - Larger pads for hand soldering
-- Courtyard from unit dimensions
+- Courtyard from physical dimensions
 - Solder mask expansion for PCB fab
 
 ## ****************************
